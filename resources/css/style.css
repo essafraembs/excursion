@@ -27,3 +27,11 @@ body{
     font-size: 16px;
     color: aquamarine;
 }
+
+/* COPYRIGHT */
+
+.copyright--tag {
+    font-size: 21px;
+    color: grey;
+    text-align: right;
+}
